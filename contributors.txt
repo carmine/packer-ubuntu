@@ -1,0 +1,5 @@
+Primary contributor - Carmine Rimi
+
+Sources referenced:
+• https://github.com/lxhunter/packer-templates
+
