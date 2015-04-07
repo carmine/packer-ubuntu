@@ -1,0 +1,5 @@
+# Ignore temporary (build) directories
+packer_cache/
+virtualbox/
+output-virtualbox-iso/
+
