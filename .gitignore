@@ -3,3 +3,5 @@ packer_cache/
 virtualbox/
 output-virtualbox-iso/
 
+# Mac stuff. In case you haven't added this to global ignore.
+.DS_Store
