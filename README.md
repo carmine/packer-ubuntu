@@ -12,3 +12,10 @@ brew cask install virtualbox
 brew cask install vagrant
 brew cask install packer
 ```
+
+###Building stuff ..
+- 'make' will build a ubuntu 14.04 box
+- 'make ubuntu-14.10' will build the 14.10 version of the box.
+- 'make install-14.10' will add the box to the vagrant cache of known boxes
+- make -clean will delete the .box
+- make -clobber will call clean and it will delete the local ISOs.
