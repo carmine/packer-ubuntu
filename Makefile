@@ -2,7 +2,7 @@
 versions = ubuntu-15.04.box ubuntu-14.10.box ubuntu-14.04.box
 
 # Default is to build the LTS version ... so, just 'make' goes here
-default: ubuntu-14.04.box
+default: ubuntu-14.10.box
 
 # But you can build everything if you want to
 all: $(versions) 
